@@ -6,8 +6,8 @@ import React from 'react'
 const Useroutput = () => {
   return (
     <div>
-      <p>my name is modupe</p>
-      <p>i live at ikorodu</p>
+      <p>my name is modupe i hail from ogun state,i love listening to music and passionate about technology</p>
+      <p>i'm currently undergoing a training at sail with with learning track in software development</p>
     </div>
   )
 }
