@@ -1,0 +1,30 @@
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ .App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color: aqua;
+    font-size: 4rem;
+    gap: 2rem;
+    
+ }
+ .App:hover{
+    background-color: rgb(240, 241, 239);
+ }
+ p:hover{
+    color: aliceblue;
+ }
+ input{
+    padding: 10px;
+    width: 200px;
+    background-color: grey;
+    color: aqua;
+ }
+ 
