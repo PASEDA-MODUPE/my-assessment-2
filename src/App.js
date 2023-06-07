@@ -10,8 +10,12 @@ import "./App.css"
   return (
     <div className="App">          
             
-   <Useroutput/>
+  
    <Userinput />
+   
+    <Useroutput/>
+    <Useroutput/>
+    <Useroutput/>
   
     </div>
   )
